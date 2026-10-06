@@ -2,8 +2,9 @@
 
 we will document our process in this folder
 
-## chapter one
-khzgfutdrzfughu
+## list
+here is a list
+- hgfvuzv
+- onb hibop
 
-## chapter two
-ougzciuohi
+i can write an **emphasis** with two star characters  (https://pippinbarr.com/itisasifyouweredoingwork/)
